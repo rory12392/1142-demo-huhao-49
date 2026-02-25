@@ -21,5 +21,15 @@
 ![](w01-p2.png)
 
 ```
+f2754a1 rory12392 Wed Feb 25 19:13:35 2026 +0800  W01-P2: TypeScript tutorials (1)
+```
+
+### W01-P3: TypeScript tutorials (2)
+
+#### => Object Fundamental, npm run build error when typechecking failed
+
+![](w01-p3.png)
+
+```
 
 ```
