@@ -1,0 +1,16 @@
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rory12392/1132-1N-demo-213417149.git
+git push -u origin main
+
+git add .
+git commit -m ""
+git push
+
+git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2025-9-16"
+
+git config --global user.email "rory9256@gmail.com"
+     
+git config --global user.name "rory12392"
+
