@@ -31,5 +31,19 @@ f2754a1 rory12392 Wed Feb 25 19:13:35 2026 +0800  W01-P2: TypeScript tutorials (
 ![](w01-p3.png)
 
 ```
+48b1177 rory12392 Wed Feb 25 19:47:50 2026 +0800  W01-P3: TypeScript tutorials (2)
+```
+
+### W01-P4: TypeScript tutorials (3)
+
+#### => Function Fundamentals
+
+![](w01-p4.png)
 
 ```
+
+```
+
+### W01-logs: git logs of W01
+
+![](w01-logs.png)
