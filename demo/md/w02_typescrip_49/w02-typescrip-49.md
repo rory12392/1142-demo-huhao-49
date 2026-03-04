@@ -21,7 +21,7 @@ ad23f17 rory12392 Wed Mar 4 19:50:03 2026 +0800 W02-P1: Type Alias Demo in t3.ts
 ![](w02-p3.png)
 
 ```
-
+020d672 rory12392 Wed Mar 4 20:15:26 2026 +0800 W02-P3: Interface Demo in t5.ts
 ```
 
 ### W02-P4: Modules - import and export in t6.ts and t6a.ts
