@@ -29,6 +29,20 @@ ad23f17 rory12392 Wed Mar 4 19:50:03 2026 +0800 W02-P1: Type Alias Demo in t3.ts
 ![](w02-p4.png)
 
 ```
+fc22e44 rory12392 Wed Mar 4 20:21:47 2026 +0800 W02-P4: Modules - import and export in t6.ts and t6a.ts
+```
+
+### W02-P5: Generics Demo in t7.ts
+
+#### => interface GenericInterface<T>
+
+![](w02-p5-1.png)
+
+#### => createArray<T>(length: number, value: T): Array<T>
+
+![](w02-p5-2.png)
+
+```
 
 ```
 
