@@ -43,6 +43,24 @@ fc22e44 rory12392 Wed Mar 4 20:21:47 2026 +0800 W02-P4: Modules - import and exp
 ![](w02-p5-2.png)
 
 ```
+8ae6c2e rory12392 Wed Mar 4 20:32:37 2026 +0800 W02-P5: Generics Demo in t7.ts
+```
+
+### W02-P6: Fetch Data Demo in t8.ts, t8c1.ts, t8c2.ts
+
+#### => add Tour type
+
+![](w02-p6-1.png)
+
+#### => use zod to validate data (success)
+
+![](w02-p6-2.png)
+
+#### => use zod to validate data (invalid data)
+
+![](w02-p6-3.png)
+
+```
 
 ```
 
