@@ -61,7 +61,7 @@ fc22e44 rory12392 Wed Mar 4 20:21:47 2026 +0800 W02-P4: Modules - import and exp
 ![](w02-p6-3.png)
 
 ```
-
+d2a00ff rory12392 Wed Mar 11 18:47:13 2026 +0800 W02-P6: Fetch Data Demo in t8.ts, t8c1.ts, t8c2.ts
 ```
 
 ### W02-logs: git logs of W02
