@@ -14,7 +14,7 @@
 618960f rory12392 Wed Mar 18 20:34:41 2026 +0800 W04-P1: Create tables and data using Prisma with Studio
 ```
 
-W04-P2: Repeat W04-P1, but work on Supabase
+### W04-P2: Repeat W04-P1, but work on Supabase
 
 #### => connection setting in Supabase
 
