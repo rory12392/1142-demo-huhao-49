@@ -29,6 +29,20 @@ W04-P2: Repeat W04-P1, but work on Supabase
 ![](w04-p2-3.png)
 
 ```
+f81f51d rory12392 Wed Mar 18 20:55:40 2026 +0800 W04-P2: Repeat W04-P1, but work on Supabase
+```
+
+### W04-P3: implement User_db_xx using server action
+ 
+#### => Chrome, show 2 users fetch from Supabase
+ 
+![](w04-p3-1.png)
+ 
+#### => show the code, the concept of server action
+ 
+![](w04-p3-2.png)
+ 
+```
 
 ```
 
