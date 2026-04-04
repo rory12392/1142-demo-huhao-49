@@ -16,6 +16,16 @@ git config --global user.name "rory12392"
 
 rr921119000123
 
+# Connect to Supabase via connection pooling
+DATABASE_URL="postgresql://postgres.avzvrbybprngowxnvewk:rr921119000123@aws-1-ap-southeast-1.pooler.supabase.com:6543/postgres?pgbouncer=true"
+
+# Direct connection to the database. Used for migrations
+DIRECT_URL="postgresql://postgres.avzvrbybprngowxnvewk:rr921119000123@aws-1-ap-southeast-1.pooler.supabase.com:5432/postgres"
+
+npx prisma
 npx prisma generate
 npx prisma db push
 npm run dev
+
+npm run build
+npm start
