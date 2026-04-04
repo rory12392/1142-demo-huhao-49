@@ -33,6 +33,20 @@
 ![](w05-p2-2.png)
  
 ```
+9e8df66 rory12392 Sun Apr 5 01:18:45 2026 +0800 W05-P2: Create User using server action
+```
+
+###¡@W05-P3: Delete an user from Supabase
+ 
+#### => from console.log show an user being deleted
+ 
+![](w05-p3-1.png)
+ 
+#### => show how code is working
+ 
+![](w05-p3-2.png)
+ 
+```
 
 ```
 
