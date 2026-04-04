@@ -47,6 +47,20 @@
 ![](w05-p3-2.png)
  
 ```
+3e8b027 rory12392 Sun Apr 5 01:34:28 2026 +0800 W05-P3: Delete an user from Supabase
+```
+
+### W05-P4: Refine Form_xx using useFormStatus and useFormState
+ 
+#### => create an user and show return message
+ 
+![](w05-p4-1.png)
+ 
+#### => show how code is working
+ 
+![](w05-p4-2.png)
+ 
+```
 
 ```
 
