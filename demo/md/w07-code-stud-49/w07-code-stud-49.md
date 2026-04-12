@@ -39,7 +39,7 @@ a42bdab rory12392 Sun Apr 12 17:53:12 2026 +0800 W07-P2: deploy to Vercel
 ![](w07-p3-4.png)
  
 ```
-
+35ed49f rory12392 Sun Apr 12 18:54:59 2026 +0800 W07-P3: Grocery READ and CREATE
 ```
 
 ### W07 logs: git logs of W07
