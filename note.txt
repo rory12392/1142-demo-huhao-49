@@ -25,7 +25,11 @@ DIRECT_URL="postgresql://postgres.avzvrbybprngowxnvewk:rr921119000123@aws-1-ap-s
 npx prisma
 npx prisma generate
 npx prisma db push
+npx prisma studio
+
 npm run dev
 
 npm run build
 npm start
+
+npm i nanoid react-toastify
