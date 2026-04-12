@@ -7,6 +7,16 @@
 ![](w07-p1-1.png)
  
 ```
+53a3786 rory12392 Sun Apr 12 17:27:41 2026 +0800 W07-P1: implement /grocery_xx (client approadh)
+```
+
+### W07-P2: deploy to Vercel
+ 
+#### => show /grocery_xx in Vercel
+ 
+![](w07-p2.png)
+ 
+```
 
 ```
 
