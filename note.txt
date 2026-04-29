@@ -33,3 +33,5 @@ npm run build
 npm start
 
 npm i nanoid react-toastify
+
+npx shadcn@latest init
