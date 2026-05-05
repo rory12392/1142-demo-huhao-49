@@ -45,7 +45,25 @@
 ![](w10-p3-4.png)
 
 ```
+cf72c22 rory12392 Wed Apr 29 21:00:14 2026 +0800 W10-P3: Implement Demo menubar with 5 items
+```
 
+### W10-P4: Implement Quiz1 menubar with 2 items
+ 
+#### => Show Quiz1 menubar in Vercel
+ 
+![](w10-p4-1.png)
+ 
+#### => Show blog_xx in Vercel
+ 
+![](w10-p4-2.png)
+ 
+#### => Show blog_db_xx in Vercel
+ 
+![](w10-p4-3.png)
+ 
+```
+ce75e6e rory12392 Tue May 5 23:37:03 2026 +0800 W10-P4: Implement Quiz1 menubar with 2 items
 ```
 
 ### W10 logs: git logs of W10
