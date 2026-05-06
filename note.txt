@@ -35,3 +35,9 @@ npm start
 npm i nanoid react-toastify
 
 npx shadcn@latest init
+
+
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_am9pbnQtbGlnZXItNjEuY2xlcmsuYWNjb3VudHMuZGV2JA
+CLERK_SECRET_KEY=sk_test_nqYc01H2itpozlVbShkrnue9gZw2DZa6Be2j7SJVvi
+
+ADMIN_USER_ID=user_3DLmH8ZTlWy1kmzPaovK4NXB1zT
