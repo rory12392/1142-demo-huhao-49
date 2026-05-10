@@ -57,7 +57,7 @@ b7cb83b rory12392 Sun May 10 22:50:33 2026 +0800 W11-P2: Make code work in Verce
 ![](w11-p3.png)
  
 ```
- 
+ e42ece2 rory12392 Sun May 10 23:44:17 2026 +0800 W11-P3: Make /mid_xx to work in Vercel
 ```
 
 ### W11 logs: git logs of W11
