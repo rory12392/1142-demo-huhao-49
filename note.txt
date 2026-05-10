@@ -35,6 +35,7 @@ npm start
 npm i nanoid react-toastify
 
 npx shadcn@latest init
+npm install @clerk/nextjs
 
 
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_am9pbnQtbGlnZXItNjEuY2xlcmsuYWNjb3VudHMuZGV2JA
