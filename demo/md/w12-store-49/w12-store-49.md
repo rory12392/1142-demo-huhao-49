@@ -23,6 +23,24 @@
 ![](w12-p2-2.png)
 
 ```
+f75d343 rory12392 Wed May 13 20:44:09 2026 +0800  W12-P2: Sign In and Sign Out with links
+```
+
+### W12-P3: Check isAdminUser
+
+#### => isAdminUser is true, shown in Chrome
+
+![](w12-p3-1.png)
+
+#### => related code for checking isAdminUser
+
+![](w12-p3-2.png)
+
+#### => isAdminUser is false
+
+![](w12-p3-3.png)
+
+```
 
 ```
 
