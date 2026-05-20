@@ -21,6 +21,20 @@
 ![](w13-p2-2.png)
 
 ```
+2c93829 rory12392 Wed May 20 19:55:48 2026 +0800 W13-P2: Suspense and fetch featured products
+```
+
+### W13-P3: Implement Hero Carousel
+
+#### => Chrome demo
+
+![](w13-p3-1.png)
+
+#### => related code
+
+![](w13-p3-2.png)
+
+```
 
 ```
 
