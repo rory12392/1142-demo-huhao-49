@@ -22,6 +22,11 @@ DATABASE_URL="postgresql://postgres.avzvrbybprngowxnvewk:rr921119000123@aws-1-ap
 # Direct connection to the database. Used for migrations
 DIRECT_URL="postgresql://postgres.avzvrbybprngowxnvewk:rr921119000123@aws-1-ap-southeast-1.pooler.supabase.com:5432/postgres"
 
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_am9pbnQtbGlnZXItNjEuY2xlcmsuYWNjb3VudHMuZGV2JA
+CLERK_SECRET_KEY=sk_test_nqYc01H2itpozlVbShkrnue9gZw2DZa6Be2j7SJVvi
+
+ADMIN_USER_ID=user_3DLmH8ZTlWy1kmzPaovK4NXB1zT
+
 npx prisma
 npx prisma generate
 npx prisma db push
@@ -38,7 +43,3 @@ npx shadcn@latest init
 npm install @clerk/nextjs
 
 
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_am9pbnQtbGlnZXItNjEuY2xlcmsuYWNjb3VudHMuZGV2JA
-CLERK_SECRET_KEY=sk_test_nqYc01H2itpozlVbShkrnue9gZw2DZa6Be2j7SJVvi
-
-ADMIN_USER_ID=user_3DLmH8ZTlWy1kmzPaovK4NXB1zT
