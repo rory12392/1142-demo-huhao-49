@@ -45,7 +45,7 @@
 ![](w13-p4-1.png)
 
 ```
-
+c8fd379 rory12392 Wed May 20 20:51:25 2026 +0800 W13-P4: Display featured products
 ```
 
 ### W13 logs: git logs of W13
