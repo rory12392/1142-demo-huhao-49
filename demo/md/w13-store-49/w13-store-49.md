@@ -35,6 +35,16 @@
 ![](w13-p3-2.png)
 
 ```
+422f58a rory12392 Wed May 20 20:23:28 2026 +0800 W13-P3: Implement Hero Carousel
+```
+
+### W13-P4: Display featured products
+
+#### => Chrome with related code
+
+![](w13-p4-1.png)
+
+```
 
 ```
 
