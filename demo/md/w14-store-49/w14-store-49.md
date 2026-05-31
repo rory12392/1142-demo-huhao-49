@@ -27,6 +27,20 @@
 ![](w14-p2-3.png)
  
 ```
+79266dc rory12392 Wed May 27 20:25:25 2026 +0800 W14-P2: Implement search
+```
+
+### W14-P3: Show product details
+ 
+#### => Chrome output
+ 
+![](w14-p3-1.png)
+ 
+#### => related code
+ 
+![](w14-p3-2.png)
+ 
+```
 
 ```
 
