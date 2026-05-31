@@ -41,6 +41,24 @@
 ![](w14-p3-2.png)
  
 ```
+e191c92 rory12392 Sun May 31 16:25:15 2026 +0800 W14-P3: Show product details
+```
+
+### W14-P4: for admin user to show the sales table for the route /store_xx/admin_xx/sales_xx
+ 
+#### => proxy.tsx and getAdminUser
+ 
+![](w14-p4-1.png)
+ 
+#### => code for checking admin user
+ 
+![](w14-p4-2.png)
+ 
+#### => Chrome display
+ 
+![](w14-p4-3.png)
+ 
+```
 
 ```
 
