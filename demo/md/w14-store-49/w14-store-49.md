@@ -59,7 +59,7 @@ e191c92 rory12392 Sun May 31 16:25:15 2026 +0800 W14-P3: Show product details
 ![](w14-p4-3.png)
  
 ```
-
+7c25c0d rory12392 Sun May 31 17:01:33 2026 +0800 W14-P4: for admin user to show the sales table for the route /store_xx/admin_xx/sales_xx
 ```
 
 ### W14 logs: git logs of W14
