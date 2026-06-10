@@ -35,6 +35,32 @@
 ![](w15-p2-3.png)
 
 ```
+1006d39 rory12392 Wed Jun 3 20:26:00 2026 +0800 W15-P2: Show AdminProductstable for CRUD
+```
+
+### W15-P3: Create Product and Update Product
+ 
+#### => Chrome, create a product using createProductAction
+ 
+![](w15-p3-1.png)
+ 
+#### => Chrome, create a product using createProductAction2
+ 
+![](w15-p3-2.png)
+ 
+#### => relevant code for creating a product using createProductAction2
+ 
+![](w15-p3-3.png)
+ 
+#### => Update a featured product
+ 
+![](w15-p3-4.png)
+ 
+#### => Show in featured product
+ 
+![](w15-p3-5.png)
+ 
+```
 
 ```
 
